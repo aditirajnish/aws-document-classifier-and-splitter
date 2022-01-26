@@ -1,5 +1,9 @@
 # Intelligently Split Multi-Form Document Packages with Amazon Textract and Amazon Comprehend
 
+Blog: [https://aws.amazon.com/blogs/machine-learning/intelligently-split-multi-form-document-packages-with-amazon-textract-and-amazon-comprehend/](https://aws.amazon.com/blogs/machine-learning/intelligently-split-multi-form-document-packages-with-amazon-textract-and-amazon-comprehend/)
+
+Authors: Aditi Rajnish, Raj Pathak
+
 ## Workflow 1: Endpoint Builder
 
 #### Description
